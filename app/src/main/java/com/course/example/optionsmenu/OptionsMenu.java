@@ -12,10 +12,10 @@ public class OptionsMenu extends Activity {
     
 	private ImageView ImView;
 	
-	final int PHONE = Menu.FIRST + 1;
-	final int WEB = Menu.FIRST + 2;
-	final int SMS = Menu.FIRST + 3;
-	final int EXIT = Menu.FIRST + 4;
+	final int PHONE = Menu.FIRST ;
+	final int WEB = Menu.FIRST + 1;
+	final int SMS = Menu.FIRST + 2;
+	final int EXIT = Menu.FIRST + 3;
 	
     @Override
     public void onCreate(Bundle savedInstanceState) {
