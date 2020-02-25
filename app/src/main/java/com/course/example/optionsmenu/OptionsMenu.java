@@ -12,8 +12,10 @@ public class OptionsMenu extends Activity {
     
 	private ImageView ImView;
 
-	//Menu.FIRST is a constant of the Menu class used to define first menu item,
-	//used by convention
+	/*Define Menu item identifiers.
+	  Menu.FIRST is a constant of the Menu class used to define first menu item,
+	  used by convention
+	  */
 	final int PHONE = Menu.FIRST ;
 	final int WEB = Menu.FIRST + 1;
 	final int SMS = Menu.FIRST + 2;
