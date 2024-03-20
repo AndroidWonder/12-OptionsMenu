@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/12-OptionsMenu.iml" filepath="$PROJECT_DIR$/12-OptionsMenu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/12-OptionsMenu.iml" filepath="$PROJECT_DIR$/.idea/modules/12-OptionsMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/12-OptionsMenu.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/12-OptionsMenu.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/12-OptionsMenu.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/12-OptionsMenu.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/12-OptionsMenu.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/12-OptionsMenu.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/12-OptionsMenu.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/12-OptionsMenu.app.unitTest.iml" />
     </modules>
   </component>
 </project>

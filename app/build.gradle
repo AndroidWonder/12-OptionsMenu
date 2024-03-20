@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 android {
     compileSdk 33
-    buildToolsVersion '30.0.3'
+
 
     defaultConfig {
         applicationId "com.course.example.optionsmenu"
         minSdkVersion 26
-        targetSdkVersion 30
+        targetSdkVersion 33
     }
 
     buildTypes {
@@ -15,6 +15,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+    namespace 'com.course.example.optionsmenu'
 }
 
 dependencies {
